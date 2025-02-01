@@ -1,0 +1,10 @@
+body{
+    background-color: #80b554;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.nav{
+background-color: #E2E078;
+height: 75px;
+margin:0;
+text-align: center;
+}
